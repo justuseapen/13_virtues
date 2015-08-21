@@ -81,6 +81,5 @@ document.addEventListener('DOMContentLoaded', function(e) {
   });
 });
 
-
 var now = new Date();
 var dayNames = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
